@@ -1,0 +1,17 @@
+{
+  "name": "forza-drift-settings-calculator",
+  "version": "0.1.0",
+  "description": "Calculation average tuning settings for drift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "forza",
+    "drift",
+    "tuning"
+  ],
+  "author": "Alexandr Borisov <borisovdeveloper@gmail.com>",
+  "license": "ISC"
+}
